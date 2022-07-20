@@ -35,3 +35,6 @@ When performing the tests on new images we see the following:
 
 In the case of dogs, their breed is correctly identified
 
+
+for more details see:https://medium.com/@dajardel/ef086519440b
+
