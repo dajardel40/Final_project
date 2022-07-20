@@ -10,7 +10,7 @@ To achieve the above, 8351 images of dogs are used, which correspond to 133 diff
 Convolutional Neural Networks are then used, which are more complex neural networks, which are generally used in image classification exercises and artificial vision, among others.
 Additionally, Transfer learning is used in the project, which consists of using previously trained networks with many more images, which are adapted and complemented within the current problem, to avoid having to do additional developments, obtaining good results in an optimal time.
 
-## Analysis
+## Analysis ##
 As explained above, the main information for this project corresponds to the friends corresponding to images of dogs and humans.
 
 Regarding the pictures of dogs, we have 8351 images , which correspond to 133 different breeds. These are divided into 3 groups, training, testing and validation as follows:
