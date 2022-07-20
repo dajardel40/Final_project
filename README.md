@@ -1,7 +1,7 @@
 # Final_project -  Dog breed classifier
 Contents:
 1. Project Definition
-2. Analysis
+2. Analysis - model
 3. Conclusion
 
 # Project Definition
